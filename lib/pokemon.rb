@@ -13,10 +13,7 @@ class Pokemon
   end
   
   def self.save(name, type,@db)
-    sql = <<-SQL
-      INSERT INTO pokmon (name,type)
-      VALUES(?,?)
-    SQL
+
     
     
   end
