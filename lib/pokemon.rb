@@ -1,4 +1,4 @@
-require_relative '../bin/environment'
+require_relative './bin/environment'
 
 class Pokemon
   
